@@ -1,5 +1,5 @@
-# Square function
-
+# Square
+# Silvan Albin
 square_function <- function(value){
   if (is.numeric(value)) {
     square = value * value
